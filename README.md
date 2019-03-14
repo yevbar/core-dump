@@ -201,3 +201,4 @@ https://poetizer.com/
 https://www.sfchronicle.com/bayarea/article/Hack-the-Fog-makes-history-as-San-12729895.php
 https://www.theverge.com/2019/3/11/18260857/facebook-senator-elizabeth-warren-campaign-ads-removal-tech-break-up-regulation
 https://www.nytimes.com/2018/12/27/well/mind/4-ways-to-be-happier-in-2019.html
+https://medium.com/s/reasonable-doubt
