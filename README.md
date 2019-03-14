@@ -194,3 +194,7 @@ https://twitter.com/_unwriter/status/1105608812050956288?s=19
 https://osf.io/fp8qs/?fbclid=IwAR1u4cGRHAwJ5bvepOFxzsBKXrbtILy-b0jRdluGalujt3tUYaFDXkJVM6I
 https://thescientificbuddhism.com/
 [this](random.md)
+https://twiddler.tekgear.com/
+https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp
+https://poetizer.com/
+https://www.sfchronicle.com/bayarea/article/Hack-the-Fog-makes-history-as-San-12729895.php
