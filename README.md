@@ -1,4 +1,3 @@
-# Initial page
+# Home
 
-I am adding some text to the README file
-
+This is my knowledge base!
