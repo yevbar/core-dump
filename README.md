@@ -187,6 +187,7 @@ https://www.reddit.com/r/haskell/comments/31g34g/are_there_any_persistent_graph_
 https://hackage.haskell.org/package/acid-state
 https://github.com/acid-state/acid-state
 https://brain.yev.app/
+https://yev.app/search
 https://www.gwern.net/Modafinil
 https://grakn.ai/
 https://arxiv.org/abs/1712.10057
@@ -198,3 +199,4 @@ https://twiddler.tekgear.com/
 https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp
 https://poetizer.com/
 https://www.sfchronicle.com/bayarea/article/Hack-the-Fog-makes-history-as-San-12729895.php
+https://www.theverge.com/2019/3/11/18260857/facebook-senator-elizabeth-warren-campaign-ads-removal-tech-break-up-regulation
