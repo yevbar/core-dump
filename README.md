@@ -204,3 +204,4 @@ https://www.nytimes.com/2018/12/27/well/mind/4-ways-to-be-happier-in-2019.html
 https://medium.com/s/reasonable-doubt
 https://github.com/codercom/code-server
 https://twitter.com/elonmusk/status/1106063248581894144
+https://youtu.be/BGRY14znFxY
