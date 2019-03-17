@@ -205,3 +205,126 @@ https://medium.com/s/reasonable-doubt
 https://github.com/codercom/code-server
 https://twitter.com/elonmusk/status/1106063248581894144
 https://youtu.be/BGRY14znFxY
+https://www.facebook.com/groups/hedonistic.imperative/permalink/10155908958191965/
+http://nekhbet.leary.csoft.net/biocomputer.pdf
+https://the-eye.eu/public/concen.org/Princeton%20Jung/7%20Two%20Essays%20in%20Analytical%20Psychology%20%20%28Collected%20Works%20of%20C.%20G.%20Jung%2C%20Volume%207%29.pdf
+https://qualiacomputing.com/2018/07/23/open-individualism-and-antinatalism-if-god-could-be-killed-itd-be-dead-already/
+https://www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full
+https://www.originsofconsciousness.com/origins-of-consciousness/science-fiction-and-consciousness
+https://www.longevity.vc/
+https://falkenblog.blogspot.com/2010/03/why-envy-dominates-greed.html
+https://compneurojc.github.io/
+https://www.technologyreview.com/s/613092/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/
+https://arxiv.org/abs/1902.05080
+http://inverseprobability.com/2016/05/09/machine-learning-futures-6
+https://twitter.com/gwern/status/1103855323100708866
+https://news.ycombinator.com/item?id=12696693
+https://news.ycombinator.com/item?id=17106136
+https://news.ycombinator.com/item?id=16561799
+https://qualiacomputing.com/2018/11/07/anti-tolerance-drugs/
+https://pastebin.com/bzZyMduP
+https://www.youtube.com/watch?v=LAtWR5lbgGM
+https://dtr.org/vision/
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+https://www.timetoplayfair.com/
+https://medium.com/@filip_52015/announcing-our-3-new-nootropic-products-for-neuratech-84019e920a3
+taoism
+[Surely You're Joking, Mr. Feynman!](book)
+[The Man who Fed the World: Nobel Peace Prize Laureate Norman Borlaug and His Battle to End World Hunger : an Authorized Biography](book)
+[Superintelligence: Paths, Dangers, Strategies](book)
+[The Singularity Is Near: When Humans Transcend Biology](book)
+[Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime](book)
+[The Better Angels of Our Nature: Why Violence Has Declined](book)
+[Enlightenment Now](book)
+[The Elephant in the Brain: Hidden Motives in Everyday Life](book)
+[Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland](book)
+[Lord of the Flies](book)
+[The Invention of Hugo Cabret](book)
+https://www.hedweb.com/
+[Zero to One](book)
+[Red Queen](book)
+[Antifragile](book)
+[Mental Medicine by Vizi Andrei](book)
+[Love Yourself Like Your Life Depends on It](book)
+[Meditations](book)
+https://the-eye.eu/public/concen.org/Princeton%20Jung/7%20Two%20Essays%20in%20Analytical%20Psychology%20%20%28Collected%20Works%20of%20C.%20G.%20Jung%2C%20Volume%207%29.pdf
+[Aion: Researches into the Phenomenology of the Self](book)
+[The Red Book by Jung](book)
+[The Little Prince](book)
+[The Alchemist](book)
+https://www.cs.cmu.edu/~spok/grimmtmp/
+https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q
+https://www.ai-safety.org/
+https://qualiacomputing.com/2015/04/19/why-not-computing-qualia/
+https://artificialintelligencecaucus-olson.house.gov/
+https://atmanretreat.com/
+https://github.com/wsh
+https://nomagic.software/post/2019-03-13-searching-on-my-own/
+https://www.reddit.com/r/relationships
+[The Multi-Orgasmic Man](book)
+https://www.sciencedirect.com/science/article/pii/S2050052115000542
+https://www.reddit.com/r/psychologyofsex
+https://www.nateliason.com/blog/kegel-exercises-for-men
+https://www.nateliason.com/blog/multiple-orgasms-men
+https://melmagazine.com/en-us/story/multiple-orgasms-for-men-are-all-about-pelvic-floor-control
+https://twitter.com/therealelp/status/1106631270388416513
+https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule
+postgrest.org/
+https://slatestarcodex.com/2019/03/14/gwerns-ai-generated-poetry/
+https://www.nytimes.com/2019/03/10/opinion/us-economy-stagnation-growth.html
+https://www.theatlantic.com/technology/archive/2019/03/how-discord-went-mainstream-influencers/584671/
+https://www.theatlantic.com/technology/archive/2019/03/facebook-encrypted-messaging-mark-zuckerberg-thinks-people-want/584317/
+hyperreality
+https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
+https://twitter.com/josephmenn/status/1106578730904764416
+https://www.brainpickings.org/
+http://www.emcdda.europa.eu/about
+https://www.unodc.org/wdr2018/
+https://tripsit.me/
+http://textfiles.com/groups/CDC/cDc-0079.txt?fbclid=IwAR26LzBQyd3ZUYBx3-GOJNFydFfBmIp31DVvRMLAEHrYrgz16M_zGUXpv6A
+http://textfiles.com/groups/CDC/cDc-0059.txt?fbclid=IwAR2lEwZc7EpPmAVbloC8MrRTyXT1tmAvdiJ-OaxdQBostVAZ_ZD2nT9t8_g
+https://www.theguardian.com/technology/2019/mar/13/digital-wellness-phone-addiction-tech
+https://www.imdb.com/title/tt3399484/
+https://www.brainpickings.org/2015/03/30/susan-sontag-writing-storytelling-at-the-same-time/
+http://seanhess.github.io/2015/08/19/practical-haskell-json-api.html
+https://www.csh.rit.edu/~pat/math/papers/topology/topology.pdf
+http://classics.mit.edu/Sophocles/oedipus.html
+https://arxiv.org/
+https://www.sciencealert.com/top-10-most-popular-scientific-papers-in-2018-altmetric
+https://www.semanticscholar.org/
+http://manticore.cs.uchicago.edu/
+https://www.cs.rit.edu/%7Espr/ramsey/
+https://www.wired.com/story/tim-berners-lee-world-wide-web-anniversary/
+https://www.imdb.com/title/tt0120382/
+https://faculty.washington.edu/farkas/HCDE510-Fall2012/Chandler_genre_theoryDFAnn.pdf
+https://en.wikipedia.org/wiki/H._P._Lovecraft
+https://en.wikipedia.org/wiki/Carl_Jung
+https://www.imdb.com/title/tt0113409/
+https://www.vice.com/en_us/article/zmzgbw/the-guy-who-played-barney-the-dinosaur-now-runs-a-tantric-sex-business
+https://medium.freecodecamp.org/fundamental-design-principles-for-non-designers-ad34c30caa7
+https://en.xen.wiki/w/Making_Microtonal_Music_is_Easier_Than_You’d_Think
+https://qualiacomputing.com/2018/04/10/qualia-formalism-in-the-water-supply-reflections-on-the-science-of-consciousness-2018/
+https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html
+https://www.lesswrong.com/posts/EYd63hYSzadcNnZTD/blackmail
+https://www.lesswrong.com/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide
+https://psychonautwiki.org/wiki/Theanine
+https://en.wikipedia.org/wiki/Fixed-point_combinator
+http://www.qualia-manifesto.com/manifesto.html
+https://fbresciano.com/meaning/
+https://johncarlosbaez.wordpress.com/2019/03/15/algebraic-geometry/
+[The War on Normal People: The Truth About America's Disappearing Jobs and Why Universal Basic Income Is Our Future](book)
+https://docs.google.com/document/d/1ZKNPBHOU10-0Ga0hMInneGPGfQWHLgUThcDpOu_SJ0s/edit
+https://medium.com/@arunab10/the-politics-of-typography-3236946d573b
+https://www.yang2020.com/policies/
+https://news.slashdot.org/story/19/03/16/189221/alexandria-ocasio-cortez-says-labor-shouldnt-have-to-fear-automation
+http://nautil.us/blog/new-evidence-for-the-strange-idea-that-the-universe-is-a-hologram
+https://nickwignall.com/the-secret-to-productive-mornings/
+[The Three Body Problem](book)
+http://thirdworlds.net/
+https://www.youtube.com/watch?v=sTJ7AzBIJoI
+https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow
+https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/
+https://thepanpsycast.com/david-pearce
+https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/
+http://thedatadrivenlife.com/
+https://www.media.mit.edu/groups/advancing-wellbeing/projects/
