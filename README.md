@@ -328,3 +328,4 @@ https://thepanpsycast.com/david-pearce
 https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/
 http://thedatadrivenlife.com/
 https://www.media.mit.edu/groups/advancing-wellbeing/projects/
+https://medium.com/@cantcuckthezuck/how-i-cucked-the-zuck-cd9e4d0ec03b
