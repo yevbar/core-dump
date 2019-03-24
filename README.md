@@ -463,3 +463,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2948146/
 https://photos.google.com/share/AF1QipONnMMt4O6Ee-GdVReX9CvE7NPOmfH-dHhHZC2j22yTKWL4Mji1kCCKWdoDFHY10g?key=WW81ejRMTHFWVmk4TF80c3V5SjFZeW5JWktmdkxR
 https://dmtworld.net/
 https://www.dmt-nexus.me/
+https://www.gnu.org/software/guile/learn/
+http://emacsrocks.com/
+http://mally.stanford.edu/~sr/computing/emacs.html
+https://schemers.org/
+http://dustycloud.org/misc/guile-tutorial.html
+https://www.gnu.org/software/guile/learn/
+https://www.draketo.de/proj/py2guile/
+https://lisp.sh/fetch-a-url/
