@@ -552,3 +552,6 @@ https://www.youtube.com/watch?v=8QCxV--St8o
 http://sagebook.gforge.inria.fr/english.html
 https://stevenpressfield.com/2009/10/writing-wednesdays-2-the-most-important-writing-lession-i-ever-learned/
 http://www.structuredprocrastination.com/
+https://psychedelicsangha.org/
+https://alleninstitute.org/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4099005/
