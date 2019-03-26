@@ -546,3 +546,5 @@ https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
 https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf
 https://mitpress.mit.edu/books/little-typer
 https://skiplagged.com/
+http://www.thiscodeworks.com/
+http://desc2code.com/
