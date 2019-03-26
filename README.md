@@ -2,7 +2,9 @@
 
 This is my knowledge base!
 
-Here is a list of links/ideas that I need to turn into documents/pages:
+Here is a list of links and pages that I've come across while surfing the interwebs
+
+These links do not necessarily reflect my views or ideas, they're either websites I've found interesting and/or have been suggested to me by others
 
 https://playbook.samaltman.com/?fbclid=IwAR3ldpz1Y38pXEP8AF_B7j7YyFtB2_hA84b2afYrz7ijp-ABV5Zh3OTL3ZU
 https://www.startupschool.org/library?fbclid=IwAR0uvWqnyggYxugox0dvFGyEpAOqeWyD0mcdl9VpbmBoHcBa7DedBcUQEjE
@@ -471,3 +473,75 @@ http://dustycloud.org/misc/guile-tutorial.html
 https://www.gnu.org/software/guile/learn/
 https://www.draketo.de/proj/py2guile/
 https://lisp.sh/fetch-a-url/
+https://www.ecstadelic.net/top-stories/a-new-must-read-book-on-the-ai-singularity-from-barnes-noble-the-syntellect-hypothesis-press-release
+http://moc.daper.net/
+https://getpocket.com/explore/item/10-small-habits-that-have-a-huge-return-on-life
+https://identity.utexas.edu/videos/the-id360-conference-the-identity-economy-may-5-6-2015
+https://applebutterdreams.wordpress.com/2016/08/22/the-odds-of-you-existing
+https://medium.com/@StromMcCallum/all-ideology-is-religion-43e47396c870
+https://killedbygoogle.com/
+https://marginalrevolution.com/
+https://www.project-syndicate.org
+https://www.eugenewei.com
+https://blog.janestreet.com
+https://docs.google.com/document/d/1Avi-BVXZjds5Ynf2bTlKdnsUwvk_1IR4ntjZUBrVqCg/edit
+http://www.mrmoneymustache.com/
+http://calnewport.com/blog/
+https://tim.blog/
+https://oliveremberton.com/
+https://fs.blog
+https://www.lesswrong.com/
+http://www.aaronsw.com/weblog/
+https://slatestarcodex.com/
+https://www.edge.org/
+https://meltingasphalt.com/
+http://paulgraham.com
+http://mindingourway.com/
+https://www.ribbonfarm.com/
+http://www.overcomingbias.com/
+https://www.scottaaronson.com/blog/
+http://web.archive.org/web/20140220082152/http://raikoth.net:80/
+https://www.youtube.com/user/JordanPetersonVideos
+https://heterodoxacademy.org/
+https://news.ycombinator.com/
+http://worrydream.com/
+https://startupboy.com/
+https://unenumerated.blogspot.com/
+http://stratchery.com/
+http://www.datatau.com/
+https://fivethirtyeight.com/
+https://simplystatistics.org/
+https://www.collaborativefund.com/blog/
+http://paulgraham.com/articles.html
+https://nintil.com/
+http://bearlamp.com.au/
+http://backreaction.blogspot.com/
+http://www.overcomingbias.com/
+http://www.bcaplan.com/
+https://www.gwern.net/
+https://marginalrevolution.com/
+http://math.ucr.edu/home/baez/
+https://www.math3ma.com/
+http://holdenlee.github.io/
+http://colah.github.io/
+https://www.sciencemag.org/news/2014/07/people-would-rather-be-electrically-shocked-left-alone-their-thoughts
+https://www.afar.com/magazine/the-worlds-happiest-country-is-all-about-reading-coffee-and-saunas
+https://github.com/emacs-tw/awesome-emacs
+http://web.mit.edu/racket_v612/amd64_ubuntu1404/racket/doc/getting-started/index.html
+https://www.draketo.de/proj/py2guile/
+https://www.youtube.com/watch?v=Kq-4nhIktes
+https://a-guile-mind.github.io/book/
+https://wingolog.org/archives/2013/01/07/an-opinionated-guide-to-scheme-implementations
+https://www.gnu.org/software/guile/
+https://www.gnu.org
+https://www.gnu.org/software
+https://www.gnu.org
+https://docs.racket-lang.org/continue/index.html
+https://www.infoq.com/news/2017/11/racket-6-11-dependent-types
+https://cs.stackexchange.com/questions/14905/is-it-possible-to-do-dependent-types-in-typed-racket
+https://artyom.me/learning-racket-1
+https://cs.stackexchange.com/questions/14905/is-it-possible-to-do-dependent-types-in-typed-racket
+https://www.janestreet.com/
+https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
+https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf
+https://mitpress.mit.edu/books/little-typer
