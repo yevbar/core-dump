@@ -551,3 +551,4 @@ http://desc2code.com/
 https://www.youtube.com/watch?v=8QCxV--St8o
 http://sagebook.gforge.inria.fr/english.html
 https://stevenpressfield.com/2009/10/writing-wednesdays-2-the-most-important-writing-lession-i-ever-learned/
+http://www.structuredprocrastination.com/
