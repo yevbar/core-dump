@@ -29,6 +29,11 @@
  ;; If there is more than one, they won't work right.
  )
 
+;; This allows me to just start up emacs and automatically load everything
+(dolist (package package-selected-packages)
+  (unless (package-installed-p package)
+    (package-install package)))
+
 (require 'use-package)
 
 ;; uninstall god-mode (or at least kill it for now)
@@ -64,8 +69,11 @@
 (require 'beacon)
 (beacon-mode 1)
 
+;; It dimmed surrounding text too much
+;; Maybe in certain buffers or certain conditions?
+;; Adding hooks shouldn't be that bad
 (require 'focus)
-(focus-mode 1)
+;; (focus-mode 1)
 
 (require 'goto-line-preview)
 (global-set-key [remap goto-line] 'goto-line-preview)
@@ -94,7 +102,9 @@
 
 (dumb-jump-mode)
 
-(add-hook 'after-init-hook #'global-flycheck-mode)
+(use-package flycheck
+  :ensure t
+  :init (global-flycheck-mode))
 
 (use-package markdown-mode
   :ensure t
@@ -130,7 +140,7 @@
   (let ((zone-programs (list (intern pgm))))
     (zone)))
 
-;; minesweeper is installed, doesn't work very well with the 
+;; minesweeper is installed, doesn't work very well with the
 
 ;; xkcd is installed of course
 (require 'xkcd)
