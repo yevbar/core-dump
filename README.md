@@ -6,15 +6,15 @@ Here is a list of links and pages that I've come across while surfing the interw
 
 These links do not necessarily reflect my views or ideas, they're either websites I've found interesting and/or have been suggested to me by others
 
-https://playbook.samaltman.com/?fbclid=IwAR3ldpz1Y38pXEP8AF_B7j7YyFtB2_hA84b2afYrz7ijp-ABV5Zh3OTL3ZU
-https://www.startupschool.org/library?fbclid=IwAR0uvWqnyggYxugox0dvFGyEpAOqeWyD0mcdl9VpbmBoHcBa7DedBcUQEjE
+https://playbook.samaltman.com/
+https://www.startupschool.org/library?
 http://augmentingcognition.com/ltm.html
 https://news.ycombinator.com/item?id=2395739
 https://www.gwern.net/Lifelogging
 https://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html
 https://www.mostlymaths.net/2011/03/learn-to-remember-everything-memory.html
 https://en.wikipedia.org/wiki/List_of_emerging_technologies
-https://lexicaldoll.wordpress.com/2019/03/11/on-hereness-nowness/?fbclid=IwAR1L_czW5MXfG29bQZY2JfKPORh81SiTEZdTu1shc--VrZPa3_-_-BHVnCc
+https://lexicaldoll.wordpress.com/2019/03/11/on-hereness-nowness/?
 https://praxis.fortelabs.co/what-i-learned-in-7-years-of-tracking-gratitude-292ac0b45d72/
 https://praxis.fortelabs.co/what-i-learned-about-the-future-by-reading-100-science-fiction-books-part-ii-31062cfe41bc/
 https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness
@@ -38,7 +38,7 @@ https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simpl
 https://www.sciencedirect.com/science/article/pii/S0028390818302296?via%3Dihub
 https://qualiacomputing.com/2016/06/20/algorithmic-reduction-of-psychedelic-states/
 https://qualiacomputing.com/2019/02/24/burning-man-theme-camps-of-the-year-2029-from-replicator-to-rainbow-god-1-2/
-https://vitrifyher.com/2018/06/01/consciousness-is-forever-2/?fbclid=IwAR1xGh8hMnQQtbx1LC7ZWZoEKfTEAtlSNW2mzzyFO4ccDr1cSsW3Y1eRb80
+https://vitrifyher.com/2018/06/01/consciousness-is-forever-2/?
 https://utheraptor.wordpress.com/2019/02/28/psychedelika-a-povaha-reality/
 https://eawork.club/
 https://royalsocietypublishing.org/doi/abs/10.1098/rsta.1998.0254
@@ -194,7 +194,7 @@ https://www.gwern.net/Modafinil
 https://grakn.ai/
 https://arxiv.org/abs/1712.10057
 https://twitter.com/_unwriter/status/1105608812050956288?s=19
-https://osf.io/fp8qs/?fbclid=IwAR1u4cGRHAwJ5bvepOFxzsBKXrbtILy-b0jRdluGalujt3tUYaFDXkJVM6I
+https://osf.io/fp8qs/?
 https://thescientificbuddhism.com/
 [this](random.md)
 https://twiddler.tekgear.com/
@@ -283,8 +283,8 @@ https://www.brainpickings.org/
 http://www.emcdda.europa.eu/about
 https://www.unodc.org/wdr2018/
 https://tripsit.me/
-http://textfiles.com/groups/CDC/cDc-0079.txt?fbclid=IwAR26LzBQyd3ZUYBx3-GOJNFydFfBmIp31DVvRMLAEHrYrgz16M_zGUXpv6A
-http://textfiles.com/groups/CDC/cDc-0059.txt?fbclid=IwAR2lEwZc7EpPmAVbloC8MrRTyXT1tmAvdiJ-OaxdQBostVAZ_ZD2nT9t8_g
+http://textfiles.com/groups/CDC/cDc-0079.txt?
+http://textfiles.com/groups/CDC/cDc-0059.txt?
 https://www.theguardian.com/technology/2019/mar/13/digital-wellness-phone-addiction-tech
 https://www.imdb.com/title/tt3399484/
 https://www.brainpickings.org/2015/03/30/susan-sontag-writing-storytelling-at-the-same-time/
@@ -635,3 +635,38 @@ https://feaneron.com/2019/03/28/on-being-a-free-software-maintainer/
 https://github.com/MadRabbit/halmak
 https://vifm.info/manual.shtml
 http://www.cs.yale.edu/homes/lucas.paul/posts/2017-07-31-making-an-editor.html
+https://www.amazon.com/Topological-Picturebook-George-K-Francis-ebook/dp/B00FB4LI7Y
+https://www.wired.com/story/algoraves-live-coding-djs/
+https://getpocket.com/explore/item/to-get-people-to-change-make-change-easy
+http://transhumanist-party.org/2019/03/26/3-reasons-ending-suffering/\
+https://futurism.com/matrix-simulation-argument-nick-bostrom
+https://medium.com/datadriveninvestor/sxsw-these-two-futurists-want-to-freeze-your-body-after-death-and-replace-your-brain-7557b005c257
+https://www.theatlantic.com/video/index/585814/pearson-twins/
+https://onezero.medium.com/meet-the-hillbilly-lawyer-fighting-to-take-down-big-pharma-f7edbd06fcbf
+https://inference-review.com/article/an-open-letter-to-my-colleagues
+https://motherboard.vice.com/en_us/article/jp3bgp/ixmaps-privacy-surveillance-nsa-canada
+https://www.youtube.com/watch?v=MC25cPvp4zg
+https://en.wikipedia.org/wiki/Lavarand
+https://getpocket.com/explore/item/how-to-tell-if-someone-is-truly-smart-or-just-average
+https://theoatmeal.com/comics/believe
+https://www.zachaysan.com/writing/2018-01-17-self-crashing-cars
+https://www.nature.com/articles/d41586-019-00895-3
+https://www.newyorker.com/culture/culture-desk/the-unexpected-philosophical-depths-of-the-clicker-game-universal-paperclips
+https://laughingsquid.com/100-metronomes-synchronize/
+https://www.theatlantic.com/health/archive/2015/09/why-it-was-easier-to-be-skinny-in-the-1980s/407974/
+https://www.vice.com/en_us/article/kzdjjy/all-of-andrew-yangs-76-policies-from-regular-to-weird
+https://unaware.pressbin.com/
+https://en.wikipedia.org/wiki/Weird_number
+https://hbr.org/2019/03/what-makes-some-people-more-productive-than-others
+http://www.bbc.com/future/story/20150925-blindsight-the-strangest-form-of-consciousness
+http://behavioralscientist.org/whats-wrong-with-moral-foundations-theory-and-how-to-get-moral-psychology-right/
+://medium.com/@_JeremiahJohnson/andrew-yang-is-not-ready-to-be-president-aabe61bfd0e4
+https://www.space.com/antimatter-matter-discovery-cern.html
+https://www.nytimes.com/2019/03/27/magazine/people-dont-bribe-college-officials-to-help-their-kids-they-do-it-to-help-themselves.html
+https://longreads.com/2019/03/29/on-flooding-drowning-the-culture-in-sameness/
+https://runbsd.info/
+https://www.quantamagazine.org/math-proof-finds-all-change-is-mix-of-order-and-randomness-20190327/
+http://nautil.us/issue/70/variables/a-magician-explains-why-we-see-whats-not-there
+https://diegocaleiro.com/
+https://www.ayasdi.com
+
